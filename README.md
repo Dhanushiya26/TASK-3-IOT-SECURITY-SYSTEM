@@ -76,12 +76,7 @@ https://www.tinkercad.com/things/1ViQYCmcWeR-iot-security-system/editel?returnTo
 
 Output:
 
+<img width="1365" height="639" alt="Image" src="https://github.com/user-attachments/assets/529b0ae4-7328-4fcc-8cee-bbfc8ae53749" />
 
+<img width="1365" height="638" alt="Image" src="https://github.com/user-attachments/assets/037a815c-5c4e-41f0-bb82-25d2d861060b" />
 
-
-
-
-
-
-
-Ask ChatGPT
